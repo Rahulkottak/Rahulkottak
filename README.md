@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkottak&show_icons=true&locale=en&layout=compact" alt="rahulkottak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkottak&" alt="rahulkottak" /></p>
+
+[![An image of @rahulkottak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulkottak)](https://holopin.io/@rahulkottak)
