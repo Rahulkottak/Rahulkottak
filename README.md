@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **rahulkottak@gmail.com**
 
+- Open for hackathons and work at any projects related to web dev(MERN stack), or any related projects
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/17hmUQTXV6vt4b4EDimxKJofdFpOly9KX/view?usp=sharing](https://drive.google.com/file/d/17hmUQTXV6vt4b4EDimxKJofdFpOly9KX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
