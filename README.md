@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkottak" alt="rahulkottak" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rahul_codes01" target="blank"><img src="https://img.shields.io/linkedin/connect/rahul_codes01?logo=twitter&style=for-the-badge" alt="rahul_codes01" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rahul_codes01" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_codes01?logo=twitter&style=for-the-badge" alt="rahul_codes01" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rahulkottak.netlify.app/](https://rahulkottak.netlify.app/)
