@@ -11,7 +11,7 @@
 
 - Open for hackathons and work at any projects related to web dev(MERN stack), or any related projects
 
-- 📄 You can check my resume here - [https://drive.google.com/file/d/17hmUQTXV6vt4b4EDimxKJofdFpOly9KX/view?usp=sharing](https://drive.google.com/file/d/17hmUQTXV6vt4b4EDimxKJofdFpOly9KX/view?usp=sharing)
+- 📄 You can check my resume here - https://drive.google.com/file/d/1gR8NEVsY9TJg-q7X8DaiYzBoLwM2HHM1/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
